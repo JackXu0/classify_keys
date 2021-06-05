@@ -15,8 +15,6 @@ pip install opencv-python
 
 - 在config.py文件中修改钥匙的类别数
 
-![image-20210604144148252](/Users/zhuocheng/Library/Application Support/typora-user-images/image-20210604144148252.png)
-
 #### 训练
 
 - 将视频放到dataset/training_videos目录下。视频名 = “类别ID.mp4”. 类别ID从0开始，每次递增1.
